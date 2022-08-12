@@ -1,4 +1,3 @@
-﻿This is just a portfolio practice website for a friend
+My personal portfolio website.
 
-
-live site link: https://arshiirtiza.netlify.app
+Site is live on: Arshiirtiza.rocks
